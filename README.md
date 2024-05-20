@@ -16,10 +16,10 @@ To perform a simple buffer overflow on a WINDOWS x64 bit system.
 - <b> LInux compiler (GCC) & Linux debugger (gdb)</b> 
   
 <h2>Program walk-through:</h2>
-Writing the hello.c Source Code
+Writing the hello.c Source Code:
 <p align="center">
 In a Terminal window, execute this command:
-The nano editor opens. Type in the program shown below.
+The nano editor opens. Type in the program shown below:<br>
 
 <img src="https://i.imgur.com/KK4etiy.png height="65%" width="65%" />
 <br />
